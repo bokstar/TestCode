@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A523DAE0-E442-4775-837D-15AEA9105570}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestCode/Program.cs">
+    <Files>
+      <File FileName="TestCode/Program.cs" Line="13" Column="1" />
+      <File FileName="TestCode/Exam1.cs" />
+      <File FileName="TestCode/Properties/AssemblyInfo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestCode" expanded="True">
+            <Node name="TestCode" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Exam1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/bin/Debug/TestCode.exe
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/bin/Debug/TestCode.pdb
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/obj/Debug/TestCode.csproj.AssemblyReference.cache
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/obj/Debug/TestCode.csproj.CoreCompileInputs.cache
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/obj/Debug/TestCode.exe
+/Users/jaebok/Documents/PROJECT/CSHAPE_TEST/TestCode/TestCode/TestCode/obj/Debug/TestCode.pdb
